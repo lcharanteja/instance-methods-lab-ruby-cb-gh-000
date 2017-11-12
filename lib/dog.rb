@@ -1,5 +1,5 @@
 class Dog
-  def method_name
+  def bark
     puts "Woof!"
   end
 end
